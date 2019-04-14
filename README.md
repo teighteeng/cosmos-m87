@@ -1,2 +1,2 @@
 # Cosmos M87
-> Develop vt Vue.js
+> Develop by [Vue.js](https://vuejs.org/)
